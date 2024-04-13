@@ -1,3 +1,5 @@
+
+![Github Banner](https://github.com/Open-America/.github/assets/122905658/79adfda5-b313-4772-bdaa-43e81c91379d)
 # Open America
 
 Welcome to **Open America**, hosted at https://openamerica.io, a transformative platform that redefines your interaction with the American political landscape. Open America revolutionizes how you engage with the U.S. political system, providing tools and insights that make it easy and intuitive for everyone. Whether you're a student, a professional, or simply a concerned citizen, Open America equips you with the resources to navigate, interact with, and influence the policies shaping our future.
