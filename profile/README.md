@@ -34,3 +34,9 @@ Join us in making a significant impact. Together, we can bridge the gap between 
 
 Dive into our GitHub repository to explore the code, research notes, and the thought processes behind Open America. We encourage you to contribute, provide feedback, and help us improve. Visit our repository here: [Open-America GitHub Repository](https://github.com/Open-America)
 
+# Features Coming Soon to Activist Beta (Premium):
+
+* AI Content detector:
+
+In the age of AI it will become more difficult to differ from original content. Artificial Intelligence can be used to generate/create stunning images, and videos that can take what would normally be a crediable source and make it report/say any information the user wants them to say. We are working on rolling our features to check for any indicators that the video/images/source is authentic. 
+
